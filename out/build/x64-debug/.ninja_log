@@ -1,0 +1,27 @@
+# ninja log v5
+47	1439	7625991052704997	CMakeFiles/FileRetrievalEngine.dir/Server.cpp.obj	c40ec90341e50708
+3	1150	7630085281069748	CMakeFiles/FileRetrievalEngine.dir/FileRetrievalEngine.cpp.obj	8efba8fc0ab47311
+1832	2150	7630086469922680	FileRetrievalEngine.exe	917f2239911ddb40
+2	1831	7630086467271793	CMakeFiles/FileRetrievalEngine.dir/Client.cpp.obj	3ac35ae42dec1f55
+31	466	7626010739121114	CMakeFiles/FileRetrievalEngine.dir/Trie.cpp.obj	88b302228e23e0b5
+16	626	7626050899143718	CMakeFiles/FileRetrievalEngine.dir/AlphaNumTrieIterator.cpp.obj	6985305bab6c7202
+3	538	7626056980846661	CMakeFiles/FileRetrievalEngine.dir/AlphaNumTrie.cpp.obj	1d0c9ba9a77a7aac
+3	3467	7630225187220419	CMakeFiles/FileRetrievalEngine.dir/Client.cpp.obj	3ac35ae42dec1f55
+3468	4168	7630225193148183	FileRetrievalEngine.exe	917f2239911ddb40
+5	1861	7630235747419787	CMakeFiles/FileRetrievalEngine.dir/FileRetrievalEngine.cpp.obj	8efba8fc0ab47311
+4	3354	7630236018390509	CMakeFiles/FileRetrievalEngine.dir/Client.cpp.obj	3ac35ae42dec1f55
+22	1052	7630236277217919	CMakeFiles/FileRetrievalEngine.dir/Server.cpp.obj	c40ec90341e50708
+5	1530	7630236282018325	CMakeFiles/FileRetrievalEngine.dir/FileRetrievalEngine.cpp.obj	8efba8fc0ab47311
+14	3071	7630236297388865	CMakeFiles/FileRetrievalEngine.dir/Client.cpp.obj	3ac35ae42dec1f55
+3071	3553	7630236301457338	FileRetrievalEngine.exe	917f2239911ddb40
+13	1030	7630237251452526	CMakeFiles/FileRetrievalEngine.dir/Server.cpp.obj	c40ec90341e50708
+5	1585	7630237256988891	CMakeFiles/FileRetrievalEngine.dir/FileRetrievalEngine.cpp.obj	8efba8fc0ab47311
+1585	1914	7630237259613572	FileRetrievalEngine.exe	917f2239911ddb40
+4	1016	7630238306887638	CMakeFiles/FileRetrievalEngine.dir/Server.cpp.obj	c40ec90341e50708
+1017	1354	7630238309586012	FileRetrievalEngine.exe	917f2239911ddb40
+5	3196	7630241896607141	CMakeFiles/FileRetrievalEngine.dir/Client.cpp.obj	3ac35ae42dec1f55
+3197	3546	7630241899481457	FileRetrievalEngine.exe	917f2239911ddb40
+5	1079	7630244137869253	CMakeFiles/FileRetrievalEngine.dir/Server.cpp.obj	c40ec90341e50708
+1079	1408	7630244140520718	FileRetrievalEngine.exe	917f2239911ddb40
+4	1010	7630245186391591	CMakeFiles/FileRetrievalEngine.dir/Server.cpp.obj	c40ec90341e50708
+1011	1327	7630245188908174	FileRetrievalEngine.exe	917f2239911ddb40

@@ -1,0 +1,3 @@
+C:/Users/whend/source/repos/FileRetrievalEngine/out/build/x64-debug/CMakeFiles/FileRetrievalEngine.dir
+C:/Users/whend/source/repos/FileRetrievalEngine/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/whend/source/repos/FileRetrievalEngine/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
